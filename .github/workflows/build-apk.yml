@@ -1,4 +1,4 @@
-Name: Build Cardlock APK
+name: Build Cardlock APK
 
 on:
   push:
